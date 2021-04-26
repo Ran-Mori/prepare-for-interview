@@ -63,6 +63,11 @@
 > * 基于[CS Notes](http://www.cyc2018.xyz/) `http://www.cyc2018.xyz/`整理
 > * 内容是MySQL数据库
 >
+> ### SQL.xmind
+>
+> * 基于[SQL 菜鸟教程](https://www.runoob.com/sql/sql-tutorial.html)进行整理
+> * 主要内容是各种SQL查询
+>
 > ### NetWork.xind
 >
 > * 基于[CS Notes](http://www.cyc2018.xyz/) `http://www.cyc2018.xyz/`整理
